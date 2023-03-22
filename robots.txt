@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://chirpy.cotes.page/sitemap.xml
+Sitemap: https://pydebt.github.io/sitemap.xml
